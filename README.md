@@ -15,3 +15,4 @@ Here are something I've experienced from reading so far:
 9. Become More Grateful and Understanding
 10. Show Respect And Love For All Living Things
 11. Reshape Personal Attitude Toward Life
+12. Inspire More Curiosity
