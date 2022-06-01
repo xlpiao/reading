@@ -1,4 +1,4 @@
-ISBN,Year,Month,Type,Author,Title(EN),Title(CN),Title(KR)
+ISBN,Year,Month,Type,Author,TitleEN,TitleCN,TitleKR
 1851680225,2021,Jan,Psychology,Alfred Adler,What Life Could Mean to You,自卑与超越,다시 일어서는 용기
 0553214411,2021,Feb,Fiction,W. Somerset Maugham,The Moon and Sixpence,月亮与六便士,달과 6펜스
 0060531045,2021,Mar,Fiction,Gabriel Garcia Marquez,One Hundred Years of Solitude,百年孤独,백년 동안의 고독
