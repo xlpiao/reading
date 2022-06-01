@@ -1,7 +1,7 @@
 INPUT_FILE=reading.csv
 OUTPUT_FILE=README.md
 
-echo -e "# [Keep reading! There's another world in books!](https://github.com/xlpiao/reading/blob/master/reading.csv)\n" > $OUTPUT_FILE
+echo -e "# [Keep Reading. It's The Best Form Of Entertainment.](https://github.com/xlpiao/reading/blob/master/reading.csv)\n" > $OUTPUT_FILE
 
 INPUT_HEADER=true
 while read INPUT; do
