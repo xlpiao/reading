@@ -5,14 +5,13 @@ I started reading on Kindle in Jan 2021. No matter how busy I get, I read every 
 Here are something I've experienced from reading so far:
 
 1. Become More Open-Minded 
-2. Help Alleviate Depression Symptoms
-3. Bring Tranquility
-4. Reduce Stress
-5. Improve Sleeping
-6. Maintain a Positive Attitude
-7. Take Responsibility
-8. Improve Communication Skills
-9. Become More Grateful and Understanding
-10. Show Respect And Love For All Living Things
-11. Reshape Personal Attitude Toward Life
-12. Inspire More Curiosity
+2. Bring Tranquility
+3. Reduce Stress
+4. Improve Sleeping
+5. Maintain a Positive Attitude
+6. Take Responsibility
+7. Improve Communication Skills
+8. Become More Grateful and Understanding
+9. Show Respect And Love For All Living Things
+10. Reshape Personal Attitude Toward Life
+11. Inspire More Curiosity
